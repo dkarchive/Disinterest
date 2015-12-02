@@ -9,6 +9,7 @@
 - hakimel
 - jondot
 - lexrus
+- malcommac
 - mongo
 - nicm
 - omcljs
