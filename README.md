@@ -10,6 +10,7 @@
 - [jondot](https://github.com/jondot/awesome-react-native/pull/61)
 - [lexrus](https://github.com/lexrus/VPNOn/pull/67)
 - [malcommac](https://github.com/malcommac/SwiftDate/pull/72)
+- [mgp25](https://github.com/mgp25/Chat-API-NET/pull/114)
 - [mongodb](https://github.com/mongodb/mongo/pull/1047)
 - [nicm](https://github.com/tmux/tmux/pull/190)
 - [omcljs](https://github.com/omcljs/om/pull/480)
