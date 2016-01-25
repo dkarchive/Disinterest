@@ -8,6 +8,8 @@
 - [cbednarski](https://github.com/mitchellh/packer/pull/3034)
 - [derrickstaten](https://github.com/BranchMetrics/iOS-Deferred-Deep-Linking-SDK/pull/235)
 - [hakimel](https://github.com/hakimel/reveal.js/pull/1420)
+- [hanami](https://github.com/hanami/hanami/pull/470)
+- [jodosha](https://github.com/hanami/hanami/pull/470)
 - [jondot](https://github.com/jondot/awesome-react-native/pull/61)
 - [lexrus](https://github.com/lexrus/VPNOn/pull/67)
 - [malcommac](https://github.com/malcommac/SwiftDate/pull/72)
