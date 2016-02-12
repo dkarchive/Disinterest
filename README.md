@@ -7,6 +7,7 @@
 1. [branchmetrics](https://github.com/BranchMetrics/iOS-Deferred-Deep-Linking-SDK/pull/235)
 - [calabash](https://github.com/calabash/calabash-ios/pull/989)
 - [cbednarski](https://github.com/mitchellh/packer/pull/3034)
+- [chrisballinger](https://github.com/chrisballinger/ProxyKit/pull/11)
 - [derrickstaten](https://github.com/BranchMetrics/iOS-Deferred-Deep-Linking-SDK/pull/235)
 - [hakimel](https://github.com/hakimel/reveal.js/pull/1420)
 - [hanami](https://github.com/hanami/hanami/pull/470)
