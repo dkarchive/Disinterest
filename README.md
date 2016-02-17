@@ -4,7 +4,8 @@
 
 :no_good: List of users / organizations that [don't care for redirects/typos](https://github.com/issues?utf8=✓&q=is%3Aunmerged+author%3AReadmeCritic+is%3Aclosed):
 
-1. [branchmetrics](https://github.com/BranchMetrics/iOS-Deferred-Deep-Linking-SDK/pull/235)
+1. [bomberstudios](https://github.com/sketchplugins/plugin-directory/pull/171) 
+- [branchmetrics](https://github.com/BranchMetrics/iOS-Deferred-Deep-Linking-SDK/pull/235)
 - [calabash](https://github.com/calabash/calabash-ios/pull/989)
 - [cbednarski](https://github.com/mitchellh/packer/pull/3034)
 - [chrisballinger](https://github.com/chrisballinger/ProxyKit/pull/11)
@@ -22,6 +23,7 @@
 - [nicm](https://github.com/tmux/tmux/pull/190)
 - [omcljs](https://github.com/omcljs/om/pull/480)
 - [ramonfm](https://github.com/mongodb/mongo/pull/1047)
+- [sketchplugins](https://github.com/sketchplugins/plugin-directory/pull/171)
 - [swannodette](https://github.com/omcljs/om/pull/480)
 - [tmux](https://github.com/tmux/tmux/pull/190)
 
