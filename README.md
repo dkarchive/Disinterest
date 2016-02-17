@@ -2,7 +2,7 @@
 
 ![](http://i.giphy.com/14vOBUFN7Y1PHO.gif)
 
-:no_good: List of users / organizations that [don't care for redirects](https://github.com/issues?utf8=✓&q=is%3Aunmerged+author%3AReadmeCritic+is%3Aclosed):
+:no_good: List of users / organizations that [don't care for redirects/typos](https://github.com/issues?utf8=✓&q=is%3Aunmerged+author%3AReadmeCritic+is%3Aclosed):
 
 1. [branchmetrics](https://github.com/BranchMetrics/iOS-Deferred-Deep-Linking-SDK/pull/235)
 - [calabash](https://github.com/calabash/calabash-ios/pull/989)
@@ -14,6 +14,7 @@
 - [jmoody](https://github.com/calabash/calabash-ios/pull/989)
 - [jodosha](https://github.com/hanami/hanami/pull/470)
 - [jondot](https://github.com/jondot/awesome-react-native/pull/61)
+- [kreeger](https://github.com/kreeger/BDKGeometry/pull/1)
 - [lexrus](https://github.com/lexrus/VPNOn/pull/67)
 - [malcommac](https://github.com/malcommac/SwiftDate/pull/72)
 - [mgp25](https://github.com/mgp25/Chat-API-NET/pull/114)
